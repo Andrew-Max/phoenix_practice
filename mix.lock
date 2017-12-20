@@ -1,0 +1,6 @@
+%{"cowboy": {:hex, :cowboy, "1.1.2", "61ac29ea970389a88eca5a65601460162d370a70018afe6f949a29dca91f3bb0", [], [{:cowlib, "~> 1.0.2", [hex: :cowlib, repo: "hexpm", optional: false]}, {:ranch, "~> 1.3.2", [hex: :ranch, repo: "hexpm", optional: false]}], "hexpm"},
+  "cowlib": {:hex, :cowlib, "1.0.2", "9d769a1d062c9c3ac753096f868ca121e2730b9a377de23dec0f7e08b1df84ee", [], [], "hexpm"},
+  "phoenix": {:hex, :phoenix, "0.8.0", "dfd2a11e3a6cc1c90d8894d0fc24b92cdb490cfa3287acb06145d3b0b87c4be1", [], [{:cowboy, "~> 1.0", [hex: :cowboy, repo: "hexpm", optional: true]}, {:plug, "~> 0.9.0", [hex: :plug, repo: "hexpm", optional: false]}, {:poison, "~> 1.3", [hex: :poison, repo: "hexpm", optional: false]}], "hexpm"},
+  "plug": {:hex, :plug, "0.9.0", "0a632226ba1cc3995d1281d6f6f121155557729bcf1186afaeab07fc06c69244", [], [{:cowboy, "~> 1.0", [hex: :cowboy, repo: "hexpm", optional: true]}], "hexpm"},
+  "poison": {:hex, :poison, "1.5.2", "560bdfb7449e3ddd23a096929fb9fc2122f709bcc758b2d5d5a5c7d0ea848910", [], [], "hexpm"},
+  "ranch": {:hex, :ranch, "1.3.2", "e4965a144dc9fbe70e5c077c65e73c57165416a901bd02ea899cfd95aa890986", [], [], "hexpm"}}
